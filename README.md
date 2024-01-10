@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![wakatime](https://wakatime.com/badge/user/339d14bc-c85d-4cb8-81b2-cda9a14fabad.svg)](https://wakatime.com/@339d14bc-c85d-4cb8-81b2-cda9a14fabad)
 <!--
 **andrews-lerk/andrews-lerk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
